@@ -1,3 +1,7 @@
+# Caching function for a very large matrix
+
+This is a code for a function that caches the inverse of the matrix.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
